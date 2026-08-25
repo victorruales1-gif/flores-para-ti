@@ -1,7 +1,7 @@
 // Sincronizar las letras con la canción
 
 // Array de objetos que contiene cada línea y su tiempo de aparición en segundos
-var lyricsData = [
+
   
 
 // Animar las letras
